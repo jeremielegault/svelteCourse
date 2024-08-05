@@ -15,5 +15,5 @@
 	}
 </style>
 
-<h1>Hello {name} and I am {age} years old!</h1>
+<h1>Hello my name is {name} and I am {age} years old!</h1>
 <button on:click="{incrementAge}">Change Age</button>
